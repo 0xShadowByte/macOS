@@ -44,9 +44,7 @@ Once we're in disk utility, click on VMware SATA Hard Drive Media. Then click on
 
 ![image](https://github.com/user-attachments/assets/c16cca9d-eaf2-41de-a54b-38ff24bcc7b6)
 
-If you're failing to erase the drive to reformat it then open Terminal from the Utilties menu and type in the bash: csrutil disable to disable SIP 
-
-![image](https://github.com/user-attachments/assets/4988a17f-8f29-4edf-a6ad-f23e19e3be7c)
+![image](https://github.com/user-attachments/assets/8499db94-b437-4fb6-9e0a-7213c78e6f21)
 
 Update/install macOS 13 beta
 
