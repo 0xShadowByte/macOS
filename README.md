@@ -18,26 +18,28 @@ The objective of running macOS in a virtual machine within my home lab is to gai
 - VMware Workstation Pro 17
 - macOS Ventura
 
+# Content
+
+- Installing and running macOS Ventura on VMware Workstation Pro 17
+- Explore and getting comfortable with the interface
+- Personalize macOS
+- Explore Finder, Safari, and Calender
+- Using Multitasking Features
+- File Management with Time Machine
+
 # Steps
 
-Step 1: Install VMware Workstation Player
-Download and install VMware Workstation Player.
+## Part I. Installing and running macOS Ventura on VMware Workstation Pro 17
 
-You'll also want to install Auto-Unlocker v2.0.1 from GitHub (https://github.com/paolo-projects/auto-unlocker/releases/tag/v2.0.1) so that your PC VM can run macOS.
+Step 1: Download and install VMware Workstation Player. You'll also want to install Auto-Unlocker v2.0.1 from GitHub (https://github.com/paolo-projects/auto-unlocker/releases/tag/v2.0.1) so that your PC VM can run macOS. Download macOS Ventura ISO 
 
 ![image](https://github.com/user-attachments/assets/1dcc2c30-7785-4f1f-b216-f839e9b2b20a)
-
-Download macOS Ventura ISO 
 
 ![image](https://github.com/user-attachments/assets/0429cd8a-2bda-45b8-9d97-b0580d8b2e52)
 
 Step 2: Create a New Virtual Machine
 
-Open VMware and choose Create a New Virtual Machine.
-Select Installer disc image file (iso) and browse to the macOS image file, in our case its macOS Ventura ISO.
-Select as the operating system and choose the correct version (macOS 10.x or higher).
-Follow the prompts to allocate disk space, memory, and CPU resources (at least 4GB of RAM and 40GB of hard disk space).
-Once the ISO is finished downloading, upload the ISO image file onto VMware Workstation Pro 17 so it can run.
+Open VMware and choose Create a New Virtual Machine. Select Installer disc image file (iso) and browse to the macOS image file, in our case its macOS Ventura ISO. Select as the operating system and choose the correct version (macOS 10.x or higher). Follow the prompts to allocate disk space, memory, and CPU resources (at least 4GB of RAM and 40GB of hard disk space). Once the ISO is finished downloading, upload the ISO image file onto VMware Workstation Pro 17 so it can run.
 
 ![image](https://github.com/user-attachments/assets/31ff9dec-33fa-4d89-b809-99db7447e1d9)
 
@@ -45,7 +47,7 @@ Once the ISO is finished downloading, upload the ISO image file onto VMware Work
 
 ![image](https://github.com/user-attachments/assets/a7c54330-54fc-4d03-9bb4-7bac7676b020)
 
-Once we're in disk utility, click on VMware SATA Hard Drive Media. Then click on erase. 
+Step 3: Once we're in disk utility, click on VMware SATA Hard Drive Media. Then click on erase. 
 
 ![image](https://github.com/user-attachments/assets/9087ea2b-f352-457a-bd26-3cc614bbd357)
 
@@ -53,7 +55,7 @@ Once we're in disk utility, click on VMware SATA Hard Drive Media. Then click on
 
 ![image](https://github.com/user-attachments/assets/8499db94-b437-4fb6-9e0a-7213c78e6f21)
 
-Once the drive is deleted, quit out oof Disk Utility and update/install macOS 13 beta. Select the drive we want, and in this case it would be VenturaVM
+Step 4: Once the drive is deleted, quit out oof Disk Utility and update/install macOS 13 beta. Select the drive we want, and in this case it would be VenturaVM
 
 ![image](https://github.com/user-attachments/assets/ae18a6a8-b7ab-4523-a0ec-7cdd1667ba69)
 
@@ -61,46 +63,34 @@ Once the drive is deleted, quit out oof Disk Utility and update/install macOS 13
 
 ![image](https://github.com/user-attachments/assets/f6564988-1c27-4426-874e-e0bd856bfc45)
 
-Finishing up the setup by creating a computer account. Skipped the appleID set up.
+Step 5: Finishing up the setup by creating a computer account. Skipped the appleID set up.
 
 ![image](https://github.com/user-attachments/assets/73bbabe1-ee48-49b6-bb29-18aa4b11806d)
 
 ![image](https://github.com/user-attachments/assets/a9d8d78d-ce16-4c0f-9206-22ca5f4543a8)
 
-1. macOS Navigation: Explore and Get Comfortable with the Interface
-Task 1: Explore the Desktop and Dock
-Goal: Familiarize yourself with the Desktop, Dock, and Menu Bar.
-Steps:
-Desktop: Click anywhere on the Desktop to make sure you're in the right place. You should see icons like "Trash" and possibly some files or folders.
-Dock: The Dock is the bar at the bottom of your screen. Hover over icons like Safari, Finder, Mail, and Calendar. Click to open them.
-Menu Bar: At the top of the screen, the Menu Bar shows various menus depending on the app you're using. Explore options like Apple Menu (), File, and Edit.
-Task 2: Use Spotlight Search
-Goal: Learn how to use Spotlight Search for quick access to apps, documents, and system settings.
-Steps:
-Press Command + Space to open Spotlight.
-Try searching for common apps like Safari, Finder, or System Preferences.
-Type the name of a file or folder, and see how Spotlight shows results.
+## Part II: Explore and Get Comfortable with the Interface
 
-2. File Management: Use Finder to Organize Files and Folders
+Task 1: Explore the Desktop and Dock. Familiarize yourself with the Desktop, Dock, and Menu Bar.
+Desktop: Click anywhere on the Desktop to make sure you're in the right place. You should see icons like "Trash" and possibly some files or folders. Dock: The Dock is the bar at the bottom of your screen. Hover over icons like Safari, Finder, Mail, and Calendar. Click to open them. Menu Bar: At the top of the screen, the Menu Bar shows various menus depending on the app you're using. Explore options like Apple Menu (), File, and Edit.
+
+![image](https://github.com/user-attachments/assets/ef1510e7-804f-43e3-aad1-7f42f57ba2d3)
+
+Task 2: Use Spotlight Search. Learn how to use Spotlight Search for quick access to apps, documents, and system settings.
+Press Command + Space to open Spotlight (Space + Win for PC). Try searching for common apps like Safari, Finder, or System Preferences. Type the name of a file or folder, and see how Spotlight shows results.
+
+![image](https://github.com/user-attachments/assets/3f899534-7077-4ed5-b25a-bc0be2dbfe68)
+
+## Part III: Use Finder to Organize Files and Folders
+
 Task 1: Open Finder and Navigate
-Goal: Learn how to use Finder to browse files and folders.
-Steps:
-Open Finder: Click on the Finder icon in the Dock (smiley face icon).
-Navigate to Your Home Folder: In Finder, look at the Sidebar on the left. Click on Home to see folders like Documents, Downloads, and Desktop.
-Open a Folder: Double-click a folder to open it and see its contents.
+Learn how to use Finder to browse files and folders. Click on the Finder icon in the Dock (smiley face icon).
+Navigate to Your Home Folder: In Finder, look at the Sidebar on the left. Click on Home to see folders like Documents, Downloads, and Desktop. Open a Folder: Double-click a folder to open it and see its contents.
+
 Task 2: Create, Rename, and Organize Files
-Goal: Practice creating and organizing files/folders.
-Steps:
-Create a Folder: In Finder, navigate to the Desktop. Right-click and choose New Folder. Name the folder "Practice".
-Create a File: Open TextEdit from the Dock, type some text (e.g., "This is my first file"), and save it to the "Practice" folder on the Desktop.
-Rename a File: In Finder, click once on your file to select it, then press Return and type a new name (e.g., "My First File").
-Move Files: Drag your file from the Desktop into the "Practice" folder to organize it.
-Task 3: Use the Sidebar to Quickly Access Folders
-Goal: Practice navigating the Finder Sidebar for quick access to common folders.
-Steps:
-In Finder, you'll notice the Sidebar on the left, which includes quick links to Documents, Downloads, and Applications.
-Click on Documents to open it and see your files.
-Drag a file from the Desktop into the Documents folder to move it.
+Practice creating and organizing files/folders. Create a Folder: In Finder, navigate to the Desktop. Right-click and choose New Folder. Name the folder "Practice". Create a File: Open TextEdit from the Dock, type some text (e.g., "This is my first file"), and save it to the "Practice" folder on the Desktop. Rename a File: In Finder, click once on your file to select it, then press Return and type a new name (e.g., "My First File"). Move Files: Drag your file from the Desktop into the "Practice" folder to organize it.
+
+Task 3: Use the Sidebar to Quickly Access Folders. Practice navigating the Finder Sidebar for quick access to common folders. In Finder, you'll notice the Sidebar on the left, which includes quick links to Documents, Downloads, and Applications. Click on Documents to open it and see your files. Drag a file from the Desktop into the Documents folder to move it.
 
 3. Customizing Settings: Personalize macOS
 Task 1: Change System Preferences
