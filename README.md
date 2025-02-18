@@ -27,7 +27,7 @@ Download macOS Ventura ISO
 Step 2: Create a New Virtual Machine
 
 Open VMware and choose Create a New Virtual Machine.
-Select Installer disc image file (iso) and browse to the macOS image file.
+Select Installer disc image file (iso) and browse to the macOS image file, in our case its macOS Ventura ISO.
 Select as the operating system and choose the correct version (macOS 10.x or higher).
 Follow the prompts to allocate disk space, memory, and CPU resources (at least 4GB of RAM and 40GB of hard disk space).
 Once the ISO is finished downloading, upload the ISO image file onto VMware Workstation Pro 17 so it can run.
