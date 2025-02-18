@@ -2,12 +2,19 @@
 
 # Objective
 
-Getting familiar with macOS environment
+The objective of running macOS in a virtual machine within my home lab is to gain hands-on experience with macOS system administration, software testing, and troubleshooting in a controlled environment. By setting up macOS on VMware Workstation Pro, I aim to explore macOS configurations, Terminal commands, and security features, which will enhance my familiarity with the operating system. This setup also allows me to experiment with enterprise tools such as MDM (Jamf), Active Directory integration, and macOS security hardening without the need for dedicated Apple hardware. Additionally, it serves as a learning platform for resolving boot errors, disk management issues, and optimizing virtualization settings for macOS compatibility.
 
 # Skills Learned
 
+- Disk Utility in macOS may require formatting the virtual drive as APFS before installation.
+- Recovery Mode access allows troubleshooting issues like disk erasure failures and network problems.
+- OneDrive syncing can interfere with VM file locations, requiring manual adjustments.
+- Understanding macOS bootloader behavior is essential to resolving “No compatible bootloader found” errors.
+- Running macOS on a VM provides a safe space to practice software deployment, security settings, and automation.
+- Networking configurations (NAT vs. Bridged mode) impact internet connectivity within the macOS VM.
 
 # Tools
+
 - VMware Workstation Pro 17
 - macOS Ventura
 
