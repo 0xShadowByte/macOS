@@ -9,7 +9,7 @@ Getting familiar with macOS environment
 
 # Tools
 - VMware Workstation Pro 17
-- macOS
+- macOS Ventura
 
 # Steps
 
