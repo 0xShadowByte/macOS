@@ -69,7 +69,7 @@ Step 5: Finishing up the setup by creating a computer account. Skipped the apple
 
 ![image](https://github.com/user-attachments/assets/a9d8d78d-ce16-4c0f-9206-22ca5f4543a8)
 
-## Part II: Explore and Get Comfortable with the Interface
+## Part II. Explore and Get Comfortable with the Interface
 
 Task 1: Explore the Desktop and Dock. Familiarize yourself with the Desktop, Dock, and Menu Bar.
 Desktop: Click anywhere on the Desktop to make sure you're in the right place. You should see icons like "Trash" and possibly some files or folders. Dock: The Dock is the bar at the bottom of your screen. Hover over icons like Safari, Finder, Mail, and Calendar. Click to open them. Menu Bar: At the top of the screen, the Menu Bar shows various menus depending on the app you're using. Explore options like Apple Menu (), File, and Edit.
@@ -81,18 +81,24 @@ Press Command + Space to open Spotlight (Space + Win for PC). Try searching for 
 
 ![image](https://github.com/user-attachments/assets/3f899534-7077-4ed5-b25a-bc0be2dbfe68)
 
-## Part III: Use Finder to Organize Files and Folders
+## Part III. Use Finder to Organize Files and Folders
 
 Task 1: Open Finder and Navigate
 Learn how to use Finder to browse files and folders. Click on the Finder icon in the Dock (smiley face icon).
 Navigate to Your Home Folder: In Finder, look at the Sidebar on the left. Click on Home to see folders like Documents, Downloads, and Desktop. Open a Folder: Double-click a folder to open it and see its contents.
 
+![image](https://github.com/user-attachments/assets/cd9b3784-8216-48aa-8cd2-8b3e6235de9f)
+
+![image](https://github.com/user-attachments/assets/8d664e7b-a4b7-4e05-a92b-25b66468f211)
+
 Task 2: Create, Rename, and Organize Files
 Practice creating and organizing files/folders. Create a Folder: In Finder, navigate to the Desktop. Right-click and choose New Folder. Name the folder "Practice". Create a File: Open TextEdit from the Dock, type some text (e.g., "This is my first file"), and save it to the "Practice" folder on the Desktop. Rename a File: In Finder, click once on your file to select it, then press Return and type a new name (e.g., "My First File"). Move Files: Drag your file from the Desktop into the "Practice" folder to organize it.
 
+![image](https://github.com/user-attachments/assets/5b9f7bbd-5e9a-4a1d-b3b4-71eccce80cd4)
+
 Task 3: Use the Sidebar to Quickly Access Folders. Practice navigating the Finder Sidebar for quick access to common folders. In Finder, you'll notice the Sidebar on the left, which includes quick links to Documents, Downloads, and Applications. Click on Documents to open it and see your files. Drag a file from the Desktop into the Documents folder to move it.
 
-3. Customizing Settings: Personalize macOS
+## Part IV. Customizing Settings: Personalize macOS
 Task 1: Change System Preferences
 Goal: Explore System Preferences to customize macOS.
 Steps:
