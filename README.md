@@ -46,9 +46,13 @@ Once we're in disk utility, click on VMware SATA Hard Drive Media. Then click on
 
 ![image](https://github.com/user-attachments/assets/8499db94-b437-4fb6-9e0a-7213c78e6f21)
 
-Update/install macOS 13 beta
+Once the drive is deleted, quit out oof Disk Utility and update/install macOS 13 beta. Select the drive we want, and in this case it would be VenturaVM
 
 ![image](https://github.com/user-attachments/assets/ae18a6a8-b7ab-4523-a0ec-7cdd1667ba69)
+
+![image](https://github.com/user-attachments/assets/5da0e0fe-e64d-4240-8257-cfa5cd5610ea)
+
+![image](https://github.com/user-attachments/assets/f6564988-1c27-4426-874e-e0bd856bfc45)
 
 1. macOS Navigation: Explore and Get Comfortable with the Interface
 Task 1: Explore the Desktop and Dock
