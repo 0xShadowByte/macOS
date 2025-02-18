@@ -24,21 +24,29 @@ Download macOS Ventura ISO
 
 ![image](https://github.com/user-attachments/assets/0429cd8a-2bda-45b8-9d97-b0580d8b2e52)
 
-Once the ISO is finished downloading, upload the ISO image file onto VMware Workstation Pro 17 so it can run.
-
-![image](https://github.com/user-attachments/assets/e73249dc-8d64-4364-9f2c-9ca58d4a5d3e)
-
-![image](https://github.com/user-attachments/assets/24601ba2-385e-4506-8bbb-f1c4ae59da89)
-
 Step 2: Create a New Virtual Machine
+
 Open VMware and choose Create a New Virtual Machine.
 Select Installer disc image file (iso) and browse to the macOS image file.
-Select Apple Mac OS X as the operating system and choose the correct version (macOS 10.x or higher).
+Select as the operating system and choose the correct version (macOS 10.x or higher).
 Follow the prompts to allocate disk space, memory, and CPU resources (at least 4GB of RAM and 40GB of hard disk space).
+Once the ISO is finished downloading, upload the ISO image file onto VMware Workstation Pro 17 so it can run.
 
-Step 3: Edit VMX File (macOS-Specific Configuration) smc.version = "0"
+![image](https://github.com/user-attachments/assets/31ff9dec-33fa-4d89-b809-99db7447e1d9)
 
-![image](https://github.com/user-attachments/assets/00f18d0f-52e9-43a0-9810-6a9a02135374)
+![image](https://github.com/user-attachments/assets/dc9c8a99-7850-43a0-8917-fa31c49cc868)
+
+![image](https://github.com/user-attachments/assets/a7c54330-54fc-4d03-9bb4-7bac7676b020)
+
+To prepare the disk utility for storage
+
+![image](https://github.com/user-attachments/assets/327e2562-bc91-49a5-b6ad-2f34e92e958f)
+
+Once we're in disk utility, click on VMware SATA Hard Drive Media. Then click on erase. 
+
+![image](https://github.com/user-attachments/assets/9087ea2b-f352-457a-bd26-3cc614bbd357)
+
+![image](https://github.com/user-attachments/assets/c16cca9d-eaf2-41de-a54b-38ff24bcc7b6)
 
 
 1. macOS Navigation: Explore and Get Comfortable with the Interface
