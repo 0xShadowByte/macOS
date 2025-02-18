@@ -99,65 +99,27 @@ Practice creating and organizing files/folders. Create a Folder: In Finder, navi
 Task 3: Use the Sidebar to Quickly Access Folders. Practice navigating the Finder Sidebar for quick access to common folders. In Finder, you'll notice the Sidebar on the left, which includes quick links to Documents, Downloads, and Applications. Click on Documents to open it and see your files. Drag a file from the Desktop into the Documents folder to move it.
 
 ## Part IV. Customizing Settings: Personalize macOS
-Task 1: Change System Preferences
-Goal: Explore System Preferences to customize macOS.
-Steps:
-Open System Preferences: Click on the Apple Menu () in the top-left corner of the screen and select System Preferences.
-Change Desktop Background: In System Preferences, click Desktop & Screen Saver. Choose a different desktop wallpaper or select a photo from your collection.
+
+Task 1: Change System Preferences. Explore System Preferences to customize macOS. Open System Preferences: Click on the Apple Menu () in the top-left corner of the screen and select System Preferences. Change Desktop Background: In System Preferences, click Desktop & Screen Saver. Choose a different desktop wallpaper or select a photo from your collection.
 Adjust Trackpad Settings: Go back to System Preferences and click on Trackpad. Try adjusting the settings for scrolling, tapping, and gestures.
-Task 2: Customize the Dock and Menu Bar
-Goal: Personalize the Dock and Menu Bar for easier navigation.
-Steps:
-Change Dock Settings: In System Preferences, go to Dock & Menu Bar. Experiment with settings like:
-Size: Adjust the size of the Dock.
-Position on Screen: Choose whether the Dock appears on the left, bottom, or right of the screen.
-Add/Remove Apps from Dock: Drag apps to and from the Dock. You can right-click an app and select Options to Keep in Dock or remove it.
 
-4. Using Apps: Explore Finder, Safari, and Calendar
-Task 1: Using Finder to Search for Files
-Goal: Search and filter files using Finder.
-Steps:
-Open Finder and use the search bar in the top-right corner to search for a specific file. Try searching for the file you created earlier ("My First File").
-Use the Filter options to refine your search by file type or date.
-Task 2: Explore Safari
-Goal: Learn how to browse the web using Safari.
-Steps:
-Open Safari from the Dock.
-Type a website URL (e.g., www.apple.com) into the address bar and press Return to navigate.
-Use Tabs: Click the + button in Safari to open a new tab, and try browsing multiple websites simultaneously.
-Use Bookmarks: Click Bookmarks in the menu bar to save your favorite websites.
-Practice using the Reader Mode by clicking the icon in the address bar when available.
-Task 3: Using Calendar to Schedule Events
-Goal: Learn how to use the Calendar app to schedule and manage events.
-Steps:
-Open the Calendar app from the Dock.
-Click on a day to add an event. For example, click on a random day and choose New Event.
-Enter an event title, such as "Learn macOS Basics," and set a time.
-Set a reminder for the event, and click Add.
-Explore the Week, Month, and Day views to see your schedule in different layouts.
+Task 2: Customize the Dock and Menu Bar. Personalize the Dock and Menu Bar for easier navigation. Change Dock Settings: In System Preferences, go to Dock & Menu Bar. Experiment with settings like: Size: Adjust the size of the Dock. Position on Screen: Choose whether the Dock appears on the left, bottom, or right of the screen. Add/Remove Apps from Dock: Drag apps to and from the Dock. You can right-click an app and select Options to Keep in Dock or remove it.
 
-5. Using Multitasking Features
-Task 1: Split View for Multitasking
-Goal: Use Split View to work in two apps side by side.
-Steps:
-Open two apps, like Safari and Finder.
-Click and hold the green maximize button in the top-left corner of one app's window.
-Drag the window to one side of the screen, then release.
-Select the second app to fill the other side of the screen.
-Practice resizing the Split View windows.
-Task 2: Use Mission Control to Manage Windows
-Goal: Get comfortable with Mission Control to manage multiple windows.
-Steps:
-Swipe up with three fingers on your trackpad (or press the F3 key) to enter Mission Control.
-Drag windows to different desktops or organize them for multitasking.
-Click on a desktop to switch between them.
+## Part V. Using Apps: Explore Finder, Safari, and Calendar
 
-6. Bonus Task: File Management with Time Machine
-Goal: Set up and practice using Time Machine for backups.
-Steps:
-Open System Preferences and click Time Machine.
-Connect an external drive or use an available network drive for backups.
-Toggle Time Machine on and choose the backup disk.
-Wait for Time Machine to start backing up automatically.
-After a backup, try restoring a file by clicking Enter Time Machine from the Time Machine menu in the menu bar.
+Task 1: Using Finder to Search for Files. Search and filter files using Finder. Open Finder and use the search bar in the top-right corner to search for a specific file. Try searching for the file you created earlier ("My First File"). Use the Filter options to refine your search by file type or date.
+
+Task 2: Explore Safari. Learn how to browse the web using Safari. Open Safari from the Dock. Type a website URL (e.g., www.apple.com) into the address bar and press Return to navigate. Use Tabs: Click the + button in Safari to open a new tab, and try browsing multiple websites simultaneously. Use Bookmarks: Click Bookmarks in the menu bar to save your favorite websites. Practice using the Reader Mode by clicking the icon in the address bar when available.
+
+Task 3: Using Calendar to Schedule Events. Learn how to use the Calendar app to schedule and manage events. Open the Calendar app from the Dock. Click on a day to add an event. For example, click on a random day and choose New Event. Enter an event title, such as "Learn macOS Basics," and set a time. Set a reminder for the event, and click Add. Explore the Week, Month, and Day views to see your schedule in different layouts.
+
+# Part VI. Using Multitasking Features
+
+Task 1: Split View for Multitasking. Use Split View to work in two apps side by side. Open two apps, like Safari and Finder.
+Click and hold the green maximize button in the top-left corner of one app's window. Drag the window to one side of the screen, then release. Select the second app to fill the other side of the screen. Practice resizing the Split View windows.
+
+Task 2: Use Mission Control to Manage Windows. Get comfortable with Mission Control to manage multiple windows. Swipe up with three fingers on your trackpad (or press the F3 key) to enter Mission Control. Drag windows to different desktops or organize them for multitasking. Click on a desktop to switch between them.
+
+# Part VII. Bonus Task: File Management with Time Machine
+Set up and practice using Time Machine for backups. Open System Preferences and click Time Machine. Connect an external drive or use an available network drive for backups. Toggle Time Machine on and choose the backup disk. Wait for Time Machine to start backing up automatically. After a backup, try restoring a file by clicking Enter Time Machine from the Time Machine menu in the menu bar.
 
