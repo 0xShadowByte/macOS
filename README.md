@@ -20,9 +20,9 @@ You'll also want to install Auto-Unlocker v2.0.1 from GitHub (https://github.com
 
 ![image](https://github.com/user-attachments/assets/1dcc2c30-7785-4f1f-b216-f839e9b2b20a)
 
-Download macOS 14 ISO (https://archive.org/details/macOS_14_Sonoma_beta_4_ISO)
+Download macOS Ventura ISO 
 
-![image](https://github.com/user-attachments/assets/818af76a-8306-45fa-b4f0-69e697f729c7)
+![image](https://github.com/user-attachments/assets/0429cd8a-2bda-45b8-9d97-b0580d8b2e52)
 
 Once the ISO is finished downloading, upload the ISO image file onto VMware Workstation Pro 17 so it can run.
 
