@@ -1,4 +1,4 @@
-# macOS practice
+# Virtualizing macOS: A Hands-On Lab for System Administration and Troubleshooting
 
 # Objective
 
