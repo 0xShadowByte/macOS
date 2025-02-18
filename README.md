@@ -61,6 +61,12 @@ Once the drive is deleted, quit out oof Disk Utility and update/install macOS 13
 
 ![image](https://github.com/user-attachments/assets/f6564988-1c27-4426-874e-e0bd856bfc45)
 
+Finishing up the setup by creating a computer account. Skipped the appleID set up.
+
+![image](https://github.com/user-attachments/assets/73bbabe1-ee48-49b6-bb29-18aa4b11806d)
+
+![image](https://github.com/user-attachments/assets/a9d8d78d-ce16-4c0f-9206-22ca5f4543a8)
+
 1. macOS Navigation: Explore and Get Comfortable with the Interface
 Task 1: Explore the Desktop and Dock
 Goal: Familiarize yourself with the Desktop, Dock, and Menu Bar.
