@@ -37,3 +37,7 @@ Select Apple Mac OS X as the operating system and choose the correct version (ma
 Follow the prompts to allocate disk space, memory, and CPU resources (at least 4GB of RAM and 40GB of hard disk space).
 
 Step 3: Edit VMX File (macOS-Specific Configuration)
+
+![image](https://github.com/user-attachments/assets/00f18d0f-52e9-43a0-9810-6a9a02135374)
+
+
