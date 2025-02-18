@@ -38,11 +38,6 @@ Once the ISO is finished downloading, upload the ISO image file onto VMware Work
 
 ![image](https://github.com/user-attachments/assets/a7c54330-54fc-4d03-9bb4-7bac7676b020)
 
-Update/install macOS 13 beta
-
-![image](https://github.com/user-attachments/assets/ae18a6a8-b7ab-4523-a0ec-7cdd1667ba69)
-
-
 Once we're in disk utility, click on VMware SATA Hard Drive Media. Then click on erase. 
 
 ![image](https://github.com/user-attachments/assets/9087ea2b-f352-457a-bd26-3cc614bbd357)
@@ -52,6 +47,10 @@ Once we're in disk utility, click on VMware SATA Hard Drive Media. Then click on
 If you're failing to erase the drive to reformat it then open Terminal from the Utilties menu and type in the bash: csrutil disable to disable SIP 
 
 ![image](https://github.com/user-attachments/assets/4988a17f-8f29-4edf-a6ad-f23e19e3be7c)
+
+Update/install macOS 13 beta
+
+![image](https://github.com/user-attachments/assets/ae18a6a8-b7ab-4523-a0ec-7cdd1667ba69)
 
 1. macOS Navigation: Explore and Get Comfortable with the Interface
 Task 1: Explore the Desktop and Dock
