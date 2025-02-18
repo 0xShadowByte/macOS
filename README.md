@@ -113,13 +113,13 @@ Task 2: Explore Safari. Learn how to browse the web using Safari. Open Safari fr
 
 Task 3: Using Calendar to Schedule Events. Learn how to use the Calendar app to schedule and manage events. Open the Calendar app from the Dock. Click on a day to add an event. For example, click on a random day and choose New Event. Enter an event title, such as "Learn macOS Basics," and set a time. Set a reminder for the event, and click Add. Explore the Week, Month, and Day views to see your schedule in different layouts.
 
-# Part VI. Using Multitasking Features
+## Part VI. Using Multitasking Features
 
 Task 1: Split View for Multitasking. Use Split View to work in two apps side by side. Open two apps, like Safari and Finder.
 Click and hold the green maximize button in the top-left corner of one app's window. Drag the window to one side of the screen, then release. Select the second app to fill the other side of the screen. Practice resizing the Split View windows.
 
 Task 2: Use Mission Control to Manage Windows. Get comfortable with Mission Control to manage multiple windows. Swipe up with three fingers on your trackpad (or press the F3 key) to enter Mission Control. Drag windows to different desktops or organize them for multitasking. Click on a desktop to switch between them.
 
-# Part VII. Bonus Task: File Management with Time Machine
+## Part VII. Bonus Task: File Management with Time Machine
 Set up and practice using Time Machine for backups. Open System Preferences and click Time Machine. Connect an external drive or use an available network drive for backups. Toggle Time Machine on and choose the backup disk. Wait for Time Machine to start backing up automatically. After a backup, try restoring a file by clicking Enter Time Machine from the Time Machine menu in the menu bar.
 
