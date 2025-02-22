@@ -12,11 +12,13 @@ The objective of running macOS in a virtual machine within my home lab is to gai
 - Understanding macOS bootloader behavior is essential to resolving “No compatible bootloader found” errors.
 - Running macOS on a VM provides a safe space to practice software deployment, security settings, and automation.
 - Networking configurations (NAT vs. Bridged mode) impact internet connectivity within the macOS VM.
+- Set up MDM via Jamf for a macOS device
 
 # Tools
 
 - VMware Workstation Pro 17
 - macOS Ventura
+- Jamf Pro (Demo)
 
 # Content
 
@@ -177,10 +179,43 @@ Get comfortable with Mission Control to manage multiple windows. Swipe up with t
 
 ![image](https://github.com/user-attachments/assets/b6e8cfbf-1dc5-43b4-b496-b13e1f292c9c)
 
-## Part VII. Bonus Task: File Management with Time Machine
+## Part VII. File Management with Time Machine
 
 ### Task 1. Set up and practice using Time Machine for backups
 
 Open system settings and click Time Machine, if you can't find it type in "Time Machine" in the search bar. Connect an external drive or use an available network drive for backups. Toggle Time Machine on and choose the backup disk. Wait for Time Machine to start backing up automatically. After a backup, try restoring a file by clicking Enter Time Machine from the Time Machine menu in the menu bar. You've succesfully set up Time Machine for backups and restored a file. 
 
 ![image](https://github.com/user-attachments/assets/9bc11346-ff2e-472a-8bda-12844bd62d85)
+
+
+# Setting up MDM for Mac devices via Jamf
+
+### Task 1: Set up Jamf Pro Account(If you don't have one)
+
+Sign up for Jamf Pro Demo by visiting the Jamf Pro Demo page to create a few demo account. Once you have access, log into your Jamf Pro dashboard. Jamf Pro's demo environment will give you full access to the features for managing devices.
+
+![image](https://github.com/user-attachments/assets/d74d4a68-7bfb-40f2-8bb8-99da52ea9a00)
+
+### Task 2: Prepare your macOS Device
+
+Ensure macOS is updated to the latest version compatible with MDM (macOS Ventura 13.7.5). Unenroll the device from any exisitng MDM if applicable. On the macOS device, ensure that remote management is allowed in the settings.
+
+![image](https://github.com/user-attachments/assets/f145a10b-cbf8-4062-83e0-f7bd12cd046a)
+
+![image](https://github.com/user-attachments/assets/84f52695-cf6a-49d1-82b9-4c591ef0c9d6)
+
+### Task 3: Create a PreStage Enrollment Profile
+
+In Jamf Pro, go to Devices > PreStage Enrollments. Click New to create a PreStage Enrollment profile for macOS devices. For set up: wi-fi configuration (set network settings for automatic wi-fi connection), skip steps (skip initial setup steps, like Apple ID, during the enrollment process), and supervised mode (enable to allow full management and additional control over the device). Then save the PreStage Enrollment profile
+
+### Task 4: Enroll the Device
+
+In Jamf Pro, navigate to Devices > Enrollments > Enrollment Methods. Choose a enrollment method, either apple school/business manager (for automatted enrollment) or apple configurator 2 (for manual enrollment). Folloow the on-screen instructions to download the Jamf MDM Profile on the macOS device. Install the Profile on the macOS device. After installation, the device will be connected to Jamf Pro and begin receiving MDM settings.
+
+### Task 5: Configure Device Management Settings
+
+Go to Configuration profiles such as (wi-fi configuration, security settings, and VPN or app management). Assign these profiles to the enrolled macOS device.
+
+### Task 6: Monitor and Manage the Device
+
+In Jamf Pro, you can view the device's status in the Device Inventory. You can deploy updates, enforce policy, and track compliance.
