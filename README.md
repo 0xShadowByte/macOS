@@ -89,7 +89,7 @@ Press Command + Space to open Spotlight (Space + Win for PC). Try searching for 
 ### Task 1: Open Finder and Navigate
 
 Learn how to use Finder to browse files and folders. Click on the Finder icon in the Dock (smiley face icon).
-Navigate to Your Home Folder: In Finder, look at the Sidebar on the left. Click on Home to see folders like Documents, Downloads, and Desktop. Open a Folder: Double-click a folder to open it and see its contents.
+Navigate to Your Home Folder. In Finder, look at the Sidebar on the left. Click on Home to see folders like Documents, Downloads, and Desktop. Open a Folder: Double-click a folder to open it and see its contents.
 
 ![image](https://github.com/user-attachments/assets/cd9b3784-8216-48aa-8cd2-8b3e6235de9f)
 
@@ -103,24 +103,41 @@ Practice creating and organizing files/folders. Create a Folder: In Finder, navi
 
 ### Task 3: Use the Sidebar to Quickly Access Folders. 
 
-Practice navigating the Finder Sidebar for quick access to common folders. In Finder, you'll notice the Sidebar on the left, which includes quick links to Documents, Downloads, and Applications. Click on Documents to open it and see your files. Drag a file from the Desktop into the Documents folder to move it.
+Practice navigating the Finder Sidebar for quick access to common folders. In Finder, you'll notice the Sidebar on the left, which includes quick links to Documents, Downloads, and Applications. Click on Documents to open it and see your files. Drag a file from the Desktop into the Documents folder to move it. Once you drag the file from Desktop and into Documents folder, it will disappear from desktop and reappear in documents folder automatically. 
+
+![image](https://github.com/user-attachments/assets/5f2012e9-c3c9-4413-b719-7ab536394fc5)
+
+![image](https://github.com/user-attachments/assets/9701a00c-71e8-44a4-9cea-8a40d2e21d07)
 
 ## Part IV. Customizing Settings: Personalize macOS
 
 ### Task 1: Change System Preferences
 
-Explore System Preferences to customize macOS. Open System Preferences: Click on the Apple Menu () in the top-left corner of the screen and select System Preferences. Change Desktop Background: In System Preferences, click Desktop & Screen Saver. Choose a different desktop wallpaper or select a photo from your collection.
-Adjust Trackpad Settings: Go back to System Preferences and click on Trackpad. Try adjusting the settings for scrolling, tapping, and gestures.
+Explore system settings to customize macOS. Open system settings, click on the Apple Menu (the apple logo) in the top-left corner of the screen and select system settings. To change the desktop background, click on Desktop & Screen Saver in the systems preferences widnow. Choose a different desktop wallpaper or select a photo from your collection.
+
+If you're on a macbook you can adjust the trackpad settings by going to click on trackpad towards the bottom of the left hand pane in system preferences. Go ahead and try adjusting the settings for scrolling, tapping, and gestures to get some practice.
+
+![image](https://github.com/user-attachments/assets/654c1213-9342-4415-8acb-d5f8ec3bd266)
+
+![image](https://github.com/user-attachments/assets/d9baccfc-327f-4ddb-861b-0fcdb0f88ae8)
+
+![image](https://github.com/user-attachments/assets/d74c983a-1863-4920-9462-5f8bfd858e84)
 
 ### Task 2: Customize the Dock and Menu Bar
 
-Personalize the Dock and Menu Bar for easier navigation. Change Dock Settings: In System Preferences, go to Dock & Menu Bar. Experiment with settings like: Size: Adjust the size of the Dock. Position on Screen: Choose whether the Dock appears on the left, bottom, or right of the screen. Add/Remove Apps from Dock: Drag apps to and from the Dock. You can right-click an app and select Options to Keep in Dock or remove it.
+Personalize the Dock and Menu Bar for easier navigation. Change Dock Settings from In system settings, go to Dock & Menu Bar. Experiment with settings: size (adjust the size of the dock), position on screen (choose whether the dock appears on the left, bottom, or right of the screen), or add/remove apps from dock (drag apps to and from the dock). You can right-click an app and select options to keep in dock or remove it.
+
+![image](https://github.com/user-attachments/assets/aec1ac7f-c286-4d3e-a298-382cd4750376)
+
+![image](https://github.com/user-attachments/assets/8e8ea9e1-501b-4ead-8cc1-1df0eaea2ded)
 
 ## Part V. Using Apps: Explore Finder, Safari, and Calendar
 
 ### Task 1: Using Finder to Search for Files
 
 Search and filter files using Finder. Open Finder and use the search bar in the top-right corner to search for a specific file. Try searching for the file you created earlier ("My First File"). Use the Filter options to refine your search by file type or date.
+
+
 
 ### Task 2: Explore Safari
 
