@@ -135,32 +135,52 @@ Personalize the Dock and Menu Bar for easier navigation. Change Dock Settings fr
 
 ### Task 1: Using Finder to Search for Files
 
-Search and filter files using Finder. Open Finder and use the search bar in the top-right corner to search for a specific file. Try searching for the file you created earlier ("My First File"). Use the Filter options to refine your search by file type or date.
+Search and filter files using Finder. Open Finder and use the search bar in the top-right corner to search for a specific file. Try searching for the file you created earlier ("Practice Folder"). Use the Filter options to refine your search by file type or date.
 
-
+![image](https://github.com/user-attachments/assets/cb7c11ec-5855-4412-a8a9-544af0717598)
 
 ### Task 2: Explore Safari
 
-Learn how to browse the web using Safari. Open Safari from the Dock. Type a website URL (e.g., www.apple.com) into the address bar and press Return to navigate. Use Tabs: Click the + button in Safari to open a new tab, and try browsing multiple websites simultaneously. Use Bookmarks: Click Bookmarks in the menu bar to save your favorite websites. Practice using the Reader Mode by clicking the icon in the address bar when available.
+Learn how to browse the web using Safari. Open Safari from the Dock. Type a website URL (e.g., www.apple.com) into the address bar and press Return to navigate. Use tabs: click the + button in Safari to open a new tab, and try browsing multiple websites simultaneously. Use Bookmarks: click Bookmarks in the menu bar to save your favorite websites. Practice using the Reader Mode by clicking the icon in the address bar when available.
+
+![image](https://github.com/user-attachments/assets/25582029-63cb-496e-a385-1aa4334ac558)
+
+![image](https://github.com/user-attachments/assets/6971a720-d2e3-4d1c-915f-50fae6331f56)
 
 ### Task 3: Using Calendar to Schedule Events
 
-Learn how to use the Calendar app to schedule and manage events. Open the Calendar app from the Dock. Click on a day to add an event. For example, click on a random day and choose New Event. Enter an event title, such as "Learn macOS Basics," and set a time. Set a reminder for the event, and click Add. Explore the Week, Month, and Day views to see your schedule in different layouts.
+Learn how to use the Calendar app to schedule and manage events. Open the Calendar app from the Dock. Click on a day to add an event. For example, hover over a random day, double click to create New Event. Enter an event title, such as "Learn macOS Basics," and set a time, set a reminder for the event, and click apply. Explore the Week, Month, and Day views to see your schedule in different layouts.
+
+![image](https://github.com/user-attachments/assets/fd80a57e-0eed-4cff-a7b4-314733593894)
+
+![image](https://github.com/user-attachments/assets/8d8f28f2-24b8-4f74-8ef6-eb500f4e6dbd)
 
 ## Part VI. Using Multitasking Features
 
 ### Task 1: Split View for Multitasking
 
-Use Split View to work in two apps side by side. Open two apps, like Safari and Finder.
-Click and hold the green maximize button in the top-left corner of one app's window. Drag the window to one side of the screen, then release. Select the second app to fill the other side of the screen. Practice resizing the Split View windows.
+Use Split View to work in two apps side by side. Open two apps, like Safari and Finder. Click and hold the green maximize button in the top-left corner of one app's window. Drag the window to one side of the screen, then release. Select the second app to fill the other side of the screen. Practice resizing the Split View windows. 
+
+To exit Split View move your cursor to the top of the screen, this will bring up the window buttons. In either app, click the green maximize button again too exit Split View.
+
+![image](https://github.com/user-attachments/assets/5b28fef4-55b6-49d2-8357-534c782aa0af)
+
+![image](https://github.com/user-attachments/assets/0902a556-be0b-4bd9-a785-f0814df08a07)
 
 ### Task 2: Use Mission Control to Manage Windows
 
-Get comfortable with Mission Control to manage multiple windows. Swipe up with three fingers on your trackpad (or press the F3 key) to enter Mission Control. Drag windows to different desktops or organize them for multitasking. Click on a desktop to switch between them.
+Get comfortable with Mission Control to manage multiple windows. Swipe up with three fingers on your trackpad (or press the F3 key) to enter Mission Control. (Tip: if F3 shortcut doesn't work then try Ctrl + Up Arrow shortcut). In Mission Control, you'll see all the open windows of your current desktop. To move a window to a different desktop, click and drag the window to the top of the screen where you'll see Desktop Spaces. Drop the window onto one of the Desktops at the top. If you don't hae multiple desktops yet, Mission Control will create a new one. 
+
+![image](https://github.com/user-attachments/assets/08cd28e4-ca22-436c-9722-9438d6f4ed59)
+
+![image](https://github.com/user-attachments/assets/1b5d4c72-0666-4fce-ab1b-4518a08c61c4)
+
+![image](https://github.com/user-attachments/assets/b6e8cfbf-1dc5-43b4-b496-b13e1f292c9c)
 
 ## Part VII. Bonus Task: File Management with Time Machine
 
 ### Task 1. Set up and practice using Time Machine for backups
 
-Open System Preferences and click Time Machine. Connect an external drive or use an available network drive for backups. Toggle Time Machine on and choose the backup disk. Wait for Time Machine to start backing up automatically. After a backup, try restoring a file by clicking Enter Time Machine from the Time Machine menu in the menu bar.
+Open system settings and click Time Machine, if you can't find it type in "Time Machine" in the search bar. Connect an external drive or use an available network drive for backups. Toggle Time Machine on and choose the backup disk. Wait for Time Machine to start backing up automatically. After a backup, try restoring a file by clicking Enter Time Machine from the Time Machine menu in the menu bar. You've succesfully set up Time Machine for backups and restored a file. 
 
+![image](https://github.com/user-attachments/assets/9bc11346-ff2e-472a-8bda-12844bd62d85)
