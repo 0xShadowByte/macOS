@@ -19,6 +19,7 @@ The objective of running macOS in a virtual machine within my home lab is to gai
 - VMware Workstation Pro 17
 - macOS Ventura
 - Jamf Pro (Demo)
+- ARD (Apple Remote Desktop)
 
 # Content
 
@@ -28,6 +29,7 @@ The objective of running macOS in a virtual machine within my home lab is to gai
 - Explore Finder, Safari, and Calender
 - Using Multitasking Features
 - File Management with Time Machine
+- Install and Configure Apple Remote Desktop
 
 ## Part I. Installing and running macOS Ventura on VMware Workstation Pro
 
@@ -219,3 +221,33 @@ Go to Configuration profiles such as (wi-fi configuration, security settings, an
 ### Task 6: Monitor and Manage the Device
 
 In Jamf Pro, you can view the device's status in the Device Inventory. You can deploy updates, enforce policy, and track compliance.
+
+# Managing macOS Devices Using Apple Remote Desktop
+
+### Task 1: Enable Remote Management on Target macOS Devices
+
+On each macOS device you want to control remotely, make sure that remote management is allowed under settings. (System Settings > General > Sharing) Enable Remote Management by checking the box. Click options and select the actions you want to allow (i.e. observe, control, or copy files). Set the appropriate user access rights (admin or standard user). Ensure the target devices are connected to the network.
+
+![image](https://github.com/user-attachments/assets/88eecb52-7488-4977-8e18-85b8c13c8340)
+
+![image](https://github.com/user-attachments/assets/591716ad-c3c4-446e-8d65-c32f3f015e97)
+
+![image](https://github.com/user-attachments/assets/d31233e6-4d64-43b5-85b4-4ddb744be308)
+
+### Task 2: Install and Configure Apple Remote Desktop
+
+Install Apple Remote Desktop (ARD) on your macOS Ventura system. Open ARD and add remote devices. To do so open ARD and click Scanner to search for available devices on the network. Add the devices to your list by selecting them and clicking add. Authenticate with the credentials of the remote devices.
+
+### Task 3: Remote Control Setup
+
+Select a device from the ARD interface and click Control to start a remote session. Explore the following features (observe: view what the user is doing, control: take full control of the device, send text: send messages to the remote user, lock screen: lock the remote system for security purposes, transfer files: send files to/from remote devices.
+
+### Task 4: Automate Common Administrative Tasks
+
+Use Applescript or Automator in combination with ARD to automate tasks such as installing software remotely on multiple macOS devices, running scripts for system maintenance and/or restarting systems or applications remotely.
+
+### Task 5: Monitor and Troubleshoot Devices
+
+Use the Reports feature in ARD to monitor system status. Troubleshoot remote devices by accessing their logs (Console app) and using Network Utility for network issues. You can also rebot or restart the device remotely if necessary.
+
+
